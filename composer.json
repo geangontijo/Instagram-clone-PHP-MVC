@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Inst\\": "src/"
+        }
+    },
+    "require": {
+        "nyholm/psr7": "^1.3"
+    }
+}
